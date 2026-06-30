@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0033,100:E63946&height=220&section=header&text=TankRoot29&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTF%20Player%20%7C%20IoT%20%26%20Network%20Security&descAlignY=55&descSize=18"/>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/TankRoot29/TankRoot29/main/image-moi.png" width="160" style="border-radius:50%" alt="Kossivi Jacques Junior AGBENONZAN"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=E63946&center=true&vCenter=true&width=650&lines=Capture+The+Flag+Player+%7C+picoCTF+%26+TryHackMe;Web+Exploitation+%7C+Crypto+%7C+Forensics+%26+OSINT;IoT+Security+%7C+Edge+IDS+%7C+R%C3%A9seaux;Write-ups+%26+Labs+publi%C3%A9s+ici" alt="Typing SVG" />
 </p>
 
@@ -83,7 +87,7 @@ Certification en cours via Cisco Networking Academy :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TankRoot29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TankRoot29&theme=radical&hide_border=true" alt="Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=TankRoot29&theme=radical&hide_border=true" alt="Streak" height="165"/>
 </p>
 
 <p align="center">
