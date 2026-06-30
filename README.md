@@ -76,7 +76,7 @@
 
 ### 📫 Me contacter
 
-- 🌍 Portfolio : [junior.devsione.ci](https://junior.devsione.ci)
+- 🌍 Portfolio : [jjka-portfolio.vercel.app](https://jjka-portfolio.vercel.app/)
 - 💼 LinkedIn : [Kossivi Jacques Junior AGBENONZAN](https://www.linkedin.com/in/kossivi-jacques-junior-agbenonzan-235bb1358)
 - 📧 Email : Junioragbenonzan31@gmail.com
 - 🐙 Autre compte GitHub (CTF & IoT/réseaux) : [@TankRoot29](https://github.com/TankRoot29)
@@ -86,17 +86,17 @@
 ### 📈 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunRoot29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TankRoot29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats GitHub" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunRoot29&theme=radical&hide_border=true" alt="Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunRoot29&layout=compact&theme=radical&hide_border=true" alt="Top langages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TankRoot29&layout=compact&theme=radical&hide_border=true" alt="Top langages"/>
 </p>
 
 <!-- Animation "snake" : se génère automatiquement chaque jour via une GitHub Action (voir note plus bas) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JunRoot29/JunRoot29/output/github-contribution-grid-snake.svg" alt="Snake contributions"/>
+  <img src="https://raw.githubusercontent.com/TankRoot29/TankRoot29/output/github-contribution-grid-snake.svg" alt="Snake contributions"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=120&section=footer"/>
